@@ -1,6 +1,9 @@
 # 学习笔记
 
-
 ## 工具使用
-[emacs使用](tools/emacs.md)
+
+### Emacs学习
+
+- [emacs指南学习](tools/emacs-base.md)
+- [学习GNU Emacs](tools/emacs.md)
 
