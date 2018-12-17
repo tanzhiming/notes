@@ -5,7 +5,7 @@
 * 运行单个容器
 * 运行多个一起工作的容器
 
-[pod diagram](../images/001.png)
+[pod diagram](../../images/001.png)
 
 
 **网络**
