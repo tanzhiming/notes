@@ -105,9 +105,9 @@ fi
 
 ```
 kubeadm init \
-  --kubernetes-version=v1.13.0 \
+  --kubernetes-version=v1.13.1 \
   --pod-network-cidr=10.244.0.0/16 \
-  --apiserver-advertise-address=192.168.0.10 \
+  --apiserver-advertise-address=192.168.2.10 \
   --ignore-preflight-errors=Swap
 ```
 
